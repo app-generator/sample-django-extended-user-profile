@@ -1,8 +1,6 @@
 # Django User Profile
 
-Django Sample project that allows registered users to edit their profile
-
-<br />
+Django Sample project that allows registered users to edit their profile. The code is provided on top of [Django Volt](https://appseed.us/admin-dashboards/django-dashboard-volt) - the original starter, a popular open-source Djaango starter.
 
 #### Status: @WIP
 
