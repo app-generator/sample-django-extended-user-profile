@@ -4,6 +4,10 @@ Django Sample project that allows registered users to edit their profile
 
 <br />
 
+#### Status: @WIP
+
+<br />
+
 > Features
 
 - UI-Ready app, SQLite Database, Django Native ORM
