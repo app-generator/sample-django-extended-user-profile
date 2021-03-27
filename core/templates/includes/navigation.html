@@ -125,7 +125,7 @@
                   <li class="nav-item dropdown">
                     <a class="nav-link pt-1 px-0" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                       <div class="media d-flex align-items-center">
-                        <img class="user-avatar md-avatar rounded-circle" alt="Image placeholder" src="/static/assets/img/team/profile-picture-3.jpg">
+                        <img class="user-avatar md-avatar rounded-circle" alt="Image placeholder" src="{{ request.user.profile.get_avatar }}">
                         <div class="media-body ml-2 text-dark align-items-center d-none d-lg-block">
                           <span class="mb-0 font-small font-weight-bold">
                             {{ request.user.username }}
@@ -134,7 +134,7 @@
                       </div>
                     </a>
                     <div class="dropdown-menu dashboard-dropdown dropdown-menu-right mt-2">
-                      <a class="dropdown-item font-weight-bold" href="/settings.html"><span class="fas fa-cog"></span>Settings</a>
+                      <a class="dropdown-item font-weight-bold" href="/app/settings.html"><span class="fas fa-cog"></span>Settings</a>
                       <div role="separator" class="dropdown-divider"></div>
                       <a class="dropdown-item font-weight-bold" href="{% url 'logout' %}">
                           <span class="fas fa-sign-out-alt text-danger"></span>Logout</a>
