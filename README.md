@@ -475,7 +475,7 @@ $ vim customers/templates/customers/profile.html
 
 > Note: In this template, it is not possible to display information by the Django form system, so we use the Django form only to store information.
 
-> Note: Make sure there is ‍‍`enctype="multipart/form-data"` attribute in the <form> tag to upload the avatar.
+> Note: Make sure there is ‍‍`enctype="multipart/form-data"` attribute in the form tag to upload the avatar.
 
 * make link to `ProfileView`:
 
