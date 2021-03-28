@@ -200,7 +200,8 @@ $ python manage.py migrate
 $ vim customers/forms.py
 ```
     
-2- add `ProfileForm` form
+2- add `ProfileForm` form.
+
 `customers/forms.py`:
 ```python
 from django import forms
