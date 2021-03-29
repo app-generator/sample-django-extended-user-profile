@@ -34,7 +34,7 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 <br />
 <br />
 
-![Django Bootstrap 5 Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-volt/master/media/django-dashboard-volt-screen.png)
+![Django Bootstrap 5 Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-user-profile/master/media/django-edit-profile-intro.gif)
 
 <br />
 
