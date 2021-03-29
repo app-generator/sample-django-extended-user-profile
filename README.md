@@ -4,6 +4,10 @@ Django Sample project that allows registered users to edit their profile. The co
 
 <br />
 
+**STATUS:** @WIP
+
+<br />
+
 > Features
 
 - UI Kit: [Volt Bootstrap 5](https://themesberg.com/product/admin-dashboard/volt-bootstrap-5-dashboard) by **Themesberg**
