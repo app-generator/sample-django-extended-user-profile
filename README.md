@@ -279,7 +279,7 @@ The template that handles the user input is defined in `customers/profile.html` 
     </form>
 ```
 
-> Note: Make sure there is ‍‍`enctype="multipart/form-data"`** attribute in the form tag to upload the avatar.
+> Note: Make sure there is **`enctype="multipart/form-data"`** attribute in the form tag to upload the avatar.
 
 <br />
 
