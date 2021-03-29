@@ -73,7 +73,7 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
 
 <br />
 
-## Code-base structure
+## Codebase structure
 
 The project is coded using a simple and intuitive structure presented below:
 
@@ -132,14 +132,16 @@ The project is coded using a simple and intuitive structure presented below:
 
 ## User Profile Feature
 
-### Settings
-
-In this section, the user can change profile information, including name, email, avatar, ... etc. 
-To do this, we create a new app called `customers`, then create a model named `Profile` to store user information.
+This section describes the coding process for this feature that allows authenticated users to update their profiles. 
 
 ![Settings screenshot](https://raw.githubusercontent.com/app-generator/django-user-profile/master/media/django-dashboard-volt-screen-settings.png)
 
 <br />
+
+### Settings
+
+In this section, the user can change profile information, including name, email, avatar, ... etc. 
+To do this, we create a new app called `customers`, then create a model named `Profile` to store user information.
 
 ### The `customers` app:
 
@@ -177,7 +179,7 @@ class Profile(models.Model):
 
 <br />
 
-### Required Forms
+### The `Profile` form
 
 Create related form to show inputs & store data. The `ProfileForm` will be defined in the `customers/forms.py` using a definition as below:
     
@@ -200,7 +202,7 @@ class ProfileForm(forms.ModelForm):
 
 <br />
 
-### Define Profile View
+### The `Profile` view 
 
 * create `ProfileView` in `customers/views.py`:
 
@@ -238,7 +240,7 @@ class ProfileView(View):
 
 <br />
 
-### Define Profile Template
+### The `Profile` HTML template
 
 The template that handles the user input is defined in `customers/profile.html` file. 
 
@@ -279,7 +281,7 @@ The template that handles the user input is defined in `customers/profile.html` 
 
 > Note: Make sure there is ‍‍`enctype="multipart/form-data"` attribute in the form tag to upload the avatar.
 
-### Routing
+### The `Profile` routing
 
 Activate the routing for `customers` app by edit the `customers/urls.py` file with the following code:
 
