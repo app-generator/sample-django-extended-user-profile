@@ -200,9 +200,20 @@ class ProfileForm(forms.ModelForm):
         model = Profile
         fields = '__all__'
         exclude = ['user']
+
+
+def form_validation_error(form):
+    msg = ""
+    for field in form:
+        for error in field.errors:
+            msg += "%s: %s \\n" % (field.label if hasattr(field, 'label') else 'Error', error)
+    return msg
+
 ```
 
 > Note: We have three fields (first_name, last_name, email) that are outside the profile model (they are in the user model). We need to add these three fields to our form.
+
+> form_validation_error: If any error happened in your form, this function returns the error message.
 
 <br />
 
@@ -211,8 +222,9 @@ class ProfileForm(forms.ModelForm):
 * create `ProfileView` in `customers/views.py`:
 
 ```python
-from customers.forms import ProfileForm # import the used form
-from customers.models import Profile    # import the Profile Model 
+from django.contrib import messages # import messages to show flash message in your page
+from customers.forms import ProfileForm, form_validation_error # import the used form and related function to show errors
+from customers.models import Profile # import the Profile Model 
 
 class ProfileView(View):
     profile = None
@@ -237,6 +249,9 @@ class ProfileView(View):
             profile.user.email      = form.cleaned_data.get('email')
             profile.user.save()
             
+            messages.success(request, 'Profile saved successfully')
+        else:
+            messages.error(request, form_validation_error(form))
         return redirect('profile')
 ```
 

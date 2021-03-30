@@ -1,7 +1,8 @@
+from django.contrib import messages
 from django.shortcuts import render, redirect
 from django.views import View
 
-from customers.forms import ProfileForm
+from customers.forms import ProfileForm, form_validation_error
 from customers.models import Profile
 
 
@@ -25,4 +26,8 @@ class ProfileView(View):
             profile.user.last_name = form.cleaned_data.get('last_name')
             profile.user.email = form.cleaned_data.get('email')
             profile.user.save()
+
+            messages.success(request, 'Profile saved successfully')
+        else:
+            messages.error(request, form_validation_error(form))
         return redirect('profile')
