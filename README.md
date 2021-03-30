@@ -203,6 +203,10 @@ class ProfileForm(forms.ModelForm):
 
 
 def form_validation_error(form):
+    """
+    Form Validation Error
+    If any error happened in your form, this function returns the error message.
+    """
     msg = ""
     for field in form:
         for error in field.errors:
