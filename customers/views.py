@@ -1,11 +1,14 @@
 from django.contrib import messages
+from django.contrib.auth.decorators import login_required
 from django.shortcuts import render, redirect
+from django.utils.decorators import method_decorator
 from django.views import View
 
 from customers.forms import ProfileForm, form_validation_error
 from customers.models import Profile
 
 
+@method_decorator(login_required(login_url='login'), name='dispatch')
 class ProfileView(View):
     profile = None
 
@@ -14,7 +17,7 @@ class ProfileView(View):
         return super(ProfileView, self).dispatch(request, *args, **kwargs)
 
     def get(self, request):
-        context = {'profile': self.profile, 'segment' : 'profile'}
+        context = {'profile': self.profile, 'segment': 'profile'}
         return render(request, 'customers/profile.html', context)
 
     def post(self, request):

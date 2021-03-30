@@ -226,6 +226,8 @@ from django.contrib import messages # import messages to show flash message in y
 from customers.forms import ProfileForm, form_validation_error # import the used form and related function to show errors
 from customers.models import Profile # import the Profile Model 
 
+
+@method_decorator(login_required(login_url='login'), name='dispatch')
 class ProfileView(View):
     profile = None
 
