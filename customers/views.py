@@ -14,7 +14,7 @@ class ProfileView(View):
         return super(ProfileView, self).dispatch(request, *args, **kwargs)
 
     def get(self, request):
-        context = {'profile': self.profile}
+        context = {'profile': self.profile, 'segment' : 'profile'}
         return render(request, 'customers/profile.html', context)
 
     def post(self, request):
