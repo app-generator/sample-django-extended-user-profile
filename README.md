@@ -1,6 +1,6 @@
 # Django User Profile
 
-Django Sample project that allows registered users to edit their profile. The code is provided on top of [Django Volt](https://themesberg.com/product/django/volt-admin-dashboard-template), a popular open-source [Django Template](https://themesberg.com/templates/django) provided by Themesberg and AppSeed.  
+Django Sample project that allows registered users to edit their profile outside of the admin module. **[Django User Profile](https://themesberg.com/blog/django/user-profile-tutorial)** is provided on top of Django Volt, a popular open-source [Django Template](https://themesberg.com/templates/django) provided by Themesberg and AppSeed. For newcomers, Django is the most popular Python-based web framework initially released in 2003 and currently a reference framework in web development. 
 
 <br />
 
