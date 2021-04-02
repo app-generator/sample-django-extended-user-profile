@@ -19,7 +19,8 @@ Django Sample project that allows registered users to edit their profile outside
 > Links
 
 - [Django User Profile - Demo](https://django-user-profile.appseed-srv1.com/) - LIVE deployment
-- [Django Bootstrap 5 Volt](https://themesberg.com/product/django/volt-admin-dashboard-template) - the original starter
+- [Django User Profile - Blog](https://themesberg.com/blog/django/user-profile-tutorial) - Learn to code in Django
+- **[Django Bootstrap 5 Volt](https://themesberg.com/product/django/volt-admin-dashboard-template)** - the original starter
 
 <br />
 
