@@ -2,7 +2,15 @@
 
 Django Sample project that allows registered users to edit their profile outside of the admin module. **[Django User Profile](https://themesberg.com/blog/django/user-profile-tutorial)** is provided on top of Django Volt, a popular open-source [Django Template](https://themesberg.com/templates/django) provided by Themesberg and AppSeed. For newcomers, Django is the most popular Python-based web framework initially released in 2003 and currently a reference framework in web development. 
 
-<br />
+<br /> 
+
+> 🚀 `PROMO`: **[Junior Developers Starter KIT](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)** `85%OFF`
+
+The package includes a `rock-solid collection of premium assets` (**Kits & Dashboards**) that can be used to build eye-catching portfolios and web apps in no time.
+
+[![Junior Developers Starter KIT](https://user-images.githubusercontent.com/51854817/195055646-e55200cd-0ddd-4bdd-aded-0d4e4479789b.png)](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)
+
+<br /> 
 
 > Features
 
@@ -22,17 +30,6 @@ Django Sample project that allows registered users to edit their profile outside
 - [Django User Profile - Blog](https://themesberg.com/blog/django/user-profile-tutorial) - Learn to code in Django
 - **[Django Bootstrap 5 Volt](https://themesberg.com/product/django/volt-admin-dashboard-template)** - the original starter
 
-<br />
-
-## Want more? Go PRO!
-
-PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
-
-| [Django Volt PRO](https://themesberg.com/product/django/volt-admin-dashboard-pro) | [Django Datta PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro) | [Django Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro) |
-| --- | --- | --- |
-| [![Django Volt PRO](https://raw.githubusercontent.com/app-generator/django-dashboard-volt-pro/master/media/django-dashboard-volt-pro-screen.png)](https://themesberg.com/product/django/volt-admin-dashboard-pro) | [![Django Datta PRO](https://raw.githubusercontent.com/app-generator/django-dashboard-dattaable-pro/master/media/django-dashboard-dattaable-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro) | [![Django Material PRO](https://raw.githubusercontent.com/app-generator/django-dashboard-material-pro/master/media/django-dashboard-material-pro-screen.png)](https://appseed.us/admin-dashboards/django-dashboard-material-pro) 
-
-<br />
 <br />
 
 ![Django Bootstrap 5 Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-user-profile/master/media/django-edit-profile-intro.gif)
