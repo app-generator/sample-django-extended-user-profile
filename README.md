@@ -2,15 +2,15 @@
 
 Django Sample project that allows registered users to edit their profile outside of the admin module. **[Django User Profile](https://themesberg.com/blog/django/user-profile-tutorial)** is provided on top of Django Volt, a popular open-source [Django Template](https://themesberg.com/templates/django) provided by Themesberg and AppSeed. For newcomers, Django is the most popular Python-based web framework initially released in 2003 and currently a reference framework in web development. 
 
-<br /> 
+<br />
 
-> 🚀 `PROMO`: **[Junior Developers Starter KIT](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)** `85%OFF`
+## 🎁 `PROMO` [Campaign Boost 2023](https://appseed.us/discounts/) `75%OFF` 
 
-The package includes a `rock-solid collection of premium assets` (**Kits & Dashboards**) that can be used to build eye-catching portfolios and web apps in no time.
+> This **Campaign** is active during `15.DEC-15.IAN` and applies to all `products & licenses`.
 
-[![Junior Developers Starter KIT](https://user-images.githubusercontent.com/51854817/195055646-e55200cd-0ddd-4bdd-aded-0d4e4479789b.png)](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)
+[![Campaign Boost 2023 - AppSeed Winter PROMO, 75%OFF (all products & licenses)](https://user-images.githubusercontent.com/51070104/210043076-17cf8879-1644-4c49-8f18-e268b215bd7f.jpg)](https://appseed.us/discounts/)
 
-<br /> 
+<br />
 
 > Features
 
