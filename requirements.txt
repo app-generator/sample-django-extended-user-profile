@@ -6,7 +6,7 @@ pytz
 sqlparse
 Unipath
 dj-database-url
-python-decouple
+python-dotenv
 gunicorn
 whitenoise
 Pillow

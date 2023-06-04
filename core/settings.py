@@ -3,24 +3,29 @@
 Copyright (c) 2019 - present AppSeed.us
 """
 
-import os
-from decouple import config
+import os, random, string
+from dotenv import load_dotenv
 from unipath import Path
 import dj_database_url
+
+load_dotenv()
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = Path(__file__).parent
 CORE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = config('SECRET_KEY', default='S#perS3crEt_1122')
+SECRET_KEY = os.environ.get('SECRET_KEY')
+if not SECRET_KEY:
+    SECRET_KEY = ''.join(random.choice( string.ascii_lowercase  ) for i in range( 32 ))
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = config('DEBUG', default=True, cast=bool)
-DEVEL = config('DEVEL', default=True, cast=bool)
+DEBUG   = os.getenv('DEBUG', False)
+DEVEL   = os.getenv('DEVEL', False)
+SERVER  = os.getenv('DEVEL', '127.0.0.1')
 
 # load production server from .env
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', config('SERVER', default='127.0.0.1')]
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', SERVER]
 
 # Application definition
 
