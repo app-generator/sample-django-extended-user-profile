@@ -1,10 +1,10 @@
-# Django User Profile
+# [Django User Profile](https://django-user-profile.appseed-srv1.com/)
 
-Django Sample project that allows registered users to edit their profile outside of the admin module. **[Django User Profile](https://themesberg.com/blog/django/user-profile-tutorial)** is provided on top of Django Volt, a popular open-source [Django Template](https://themesberg.com/templates/django) provided by Themesberg and AppSeed. For newcomers, Django is the most popular Python-based web framework initially released in 2003 and currently a reference framework in web development. 
+Django Sample project that allows registered users to edit their profile outside of the admin module. **Django User Profile** is provided on top of Django Volt, a popular open-source **[Django Template](https://appseed.us/admin-dashboards/django/)** provided by `Themesberg` and `AppSeed`. For newcomers, **Django** is the most popular Python-based web framework initially released in 2003 and currently a reference framework in web development. 
 
-- 👉 [Django User Profile - Demo](https://django-user-profile.appseed-srv1.com/) - LIVE deployment
-- 👉 [Django User Profile - Blog](https://themesberg.com/blog/django/user-profile-tutorial) - Learn to code in Django
-- 👉 **[Django Bootstrap 5 Volt](https://themesberg.com/product/django/volt-admin-dashboard-template)** - the original starter
+- 👉 [Django User Profile - Demo](https://django-user-profile.appseed-srv1.com/) - `LIVE Demo`
+- 👉 [Django Bootstrap 5 Volt](https://appseed.us/product/volt-dashboard/django/) - the original starter
+- 🚀 Free [support](https://appseed.us/support/) via `Email` and `Discord` 
 
 <br />
 
@@ -16,7 +16,6 @@ Django Sample project that allows registered users to edit their profile outside
 - ✅ Editable user profile: Name, Surname, Email, Phone, and address
 - ✅ User Profile Page: `settings.html`
 - ✅ Deployment scripts: Docker, Gunicorn / Nginx
-- ✅ Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 <br />
 
