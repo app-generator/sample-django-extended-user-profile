@@ -2,33 +2,21 @@
 
 Django Sample project that allows registered users to edit their profile outside of the admin module. **[Django User Profile](https://themesberg.com/blog/django/user-profile-tutorial)** is provided on top of Django Volt, a popular open-source [Django Template](https://themesberg.com/templates/django) provided by Themesberg and AppSeed. For newcomers, Django is the most popular Python-based web framework initially released in 2003 and currently a reference framework in web development. 
 
-<br />
-
-## 🎁 `PROMO` [Campaign Boost 2023](https://appseed.us/discounts/) `75%OFF` 
-
-> This **Campaign** is active during `15.DEC-15.IAN` and applies to all `products & licenses`.
-
-[![Campaign Boost 2023 - AppSeed Winter PROMO, 75%OFF (all products & licenses)](https://user-images.githubusercontent.com/51070104/210043076-17cf8879-1644-4c49-8f18-e268b215bd7f.jpg)](https://appseed.us/discounts/)
+- 👉 [Django User Profile - Demo](https://django-user-profile.appseed-srv1.com/) - LIVE deployment
+- 👉 [Django User Profile - Blog](https://themesberg.com/blog/django/user-profile-tutorial) - Learn to code in Django
+- 👉 **[Django Bootstrap 5 Volt](https://themesberg.com/product/django/volt-admin-dashboard-template)** - the original starter
 
 <br />
 
-> Features
+### Features
 
-- UI Kit: [Volt Bootstrap 5](https://themesberg.com/product/admin-dashboard/volt-bootstrap-5-dashboard) by **Themesberg**
-- UI-Ready app, SQLite Database, Django Native ORM
-- Session-Based Authentication, Forms validation
-- Editable user profile: Name, Surname, Email, Phone, and address
-- User Profile Page: `settings.html`
-- Deployment scripts: Docker, Gunicorn / Nginx
-- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
-
-<br />
-
-> Links
-
-- [Django User Profile - Demo](https://django-user-profile.appseed-srv1.com/) - LIVE deployment
-- [Django User Profile - Blog](https://themesberg.com/blog/django/user-profile-tutorial) - Learn to code in Django
-- **[Django Bootstrap 5 Volt](https://themesberg.com/product/django/volt-admin-dashboard-template)** - the original starter
+- ✅ UI Kit: [Volt Bootstrap 5](https://themesberg.com/product/admin-dashboard/volt-bootstrap-5-dashboard) by **Themesberg**
+- ✅ UI-Ready app, SQLite Database, Django Native ORM
+- ✅ Session-Based Authentication, Forms validation
+- ✅ Editable user profile: Name, Surname, Email, Phone, and address
+- ✅ User Profile Page: `settings.html`
+- ✅ Deployment scripts: Docker, Gunicorn / Nginx
+- ✅ Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 <br />
 
