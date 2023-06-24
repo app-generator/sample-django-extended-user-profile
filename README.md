@@ -1,6 +1,6 @@
 # [Django User Profile](https://django-user-profile.appseed-srv1.com/)
 
-Django Sample project that allows registered users to edit their profile outside of the admin module. **Django User Profile** is provided on top of Django Volt, a popular open-source **[Django Template](https://appseed.us/admin-dashboards/django/)** provided by `Themesberg` and `AppSeed`. For newcomers, **Django** is the most popular Python-based web framework initially released in 2003 and currently a reference framework in web development. 
+Django Sample project that allows registered users to edit their profile outside of the admin module. **Django User Profile** is provided on top of `Volt`, a popular open-source **[Django Bootstrap 5 Template](https://appseed.us/product/volt-dashboard/django/)** provided by `Themesberg` and `AppSeed`. For newcomers, **Django** is the most popular Python-based web framework initially released in 2003 and is currently a top-rated framework in web development. 
 
 - 👉 [Django User Profile](https://django-user-profile.appseed-srv1.com/) - `LIVE Demo`
 - 👉 [Django Volt BS5](https://appseed.us/product/volt-dashboard/django/) - the original starter
@@ -17,8 +17,6 @@ Django Sample project that allows registered users to edit their profile outside
 - ✅ User Profile Page: `settings.html`
 - ✅ Deployment scripts: Docker, Gunicorn / Nginx
 
-<br />
-
 ![Django Bootstrap 5 Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-user-profile/master/media/django-edit-profile-intro.gif)
 
 <br />
@@ -27,8 +25,8 @@ Django Sample project that allows registered users to edit their profile outside
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/django-user-profile.git
-$ cd django-user-profile
+$ git clone https://github.com/app-generator/sample-django-extended-user-profile.git
+$ cd sample-django-extended-user-profile
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -333,4 +331,4 @@ if settings.DEVEL:
 <br />
 
 ---
-[Django Template Volt](https://appseed.us/product/volt-dashboard/django) - Provided by Themesberg and AppSeed.
+[Django Template Volt](https://appseed.us/product/volt-dashboard/django/) - Provided by Themesberg and AppSeed.
