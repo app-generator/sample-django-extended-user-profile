@@ -1,9 +1,9 @@
 # [Django User Profile](https://django-user-profile.appseed-srv1.com/)
 
-Django Sample project that allows registered users to edit their profile outside of the admin module. **Django User Profile** is provided on top of `Volt`, a popular open-source **[Django Bootstrap 5 Template](https://appseed.us/product/volt-dashboard/django/)** provided by `Themesberg` and `AppSeed`. For newcomers, **Django** is the most popular Python-based web framework initially released in 2003 and is currently a top-rated framework in web development. 
+Django Sample project that allows registered users to edit their profile outside of the admin module. **Django User Profile** is provided on top of `Volt`, a popular open-source **[Django Bootstrap 5](https://appseed.us/product/volt-dashboard/django/)** provided by `Themesberg` and `AppSeed`. For newcomers, **Django** is the most popular Python-based web framework initially released in 2003 and is currently a top-rated framework in web development. 
 
 - 👉 [Django User Profile](https://django-user-profile.appseed-srv1.com/) - `LIVE Demo`
-- 👉 [Django Volt BS5](https://appseed.us/product/volt-dashboard/django/) - the original starter
+- 👉 [Django Bootstrap 5](https://appseed.us/product/volt-dashboard/django/) - the original starter
 - 🚀 Free [support](https://appseed.us/support/) via `Email` and `Discord` 
 
 <br />
