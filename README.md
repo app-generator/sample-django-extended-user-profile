@@ -7,7 +7,9 @@ Django Sample project that allows registered users to edit their profile outside
 
 <br />
 
-### Features
+## Features
+
+> `Have questions?` Contact **[Support](https://appseed.us/support/)** (Email & Discord) provided by **AppSeed**
 
 | Free Version                          | [PRO Version](https://appseed.us/product/volt-dashboard-pro/django/)    | [Custom Development](https://appseed.us/custom-development/) |  
 | --------------------------------------| --------------------------------------| --------------------------------------|
