@@ -27,6 +27,8 @@ Django Sample project that allows registered users to edit their profile outside
 | ------------------------------------  | ------------------------------------                                                           | ------------------------------------|
 | ✓ [LIVE Demo](https://django-user-profile.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-volt-dashboard-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |    
 
+<br />
+
 ![Django Bootstrap 5 Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-user-profile/master/media/django-edit-profile-intro.gif)
 
 <br />
