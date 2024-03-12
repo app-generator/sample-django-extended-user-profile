@@ -10,12 +10,21 @@ Django Sample project that allows registered users to edit their profile outside
 
 ### Features
 
-- ✅ UI Kit: `Volt Bootstrap 5` by **Themesberg**
-- ✅ UI-Ready app, SQLite Database, Django Native ORM
-- ✅ Session-Based Authentication, Forms validation
-- ✅ Editable user profile: Name, Surname, Email, Phone, and address
-- ✅ User Profile Page: `settings.html`
-- ✅ Deployment scripts: Docker, Gunicorn / Nginx
+| Free Version                          | [PRO Version](https://appseed.us/product/volt-dashboard-pro/django/)    | [Custom Development](https://appseed.us/custom-development/) |  
+| --------------------------------------| --------------------------------------| --------------------------------------|
+| ✓ **Extended User Profiles**          | **Everything in Free**, plus:                                                                  | **Everything in PRO**, plus:         |
+| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                                              | ✅ **1mo Custom Development**       | 
+| ✓ Bootstrap 5 Design                  | ✅ `OAuth` Google, GitHub                                                                      | ✅ **Team**: PM, Developer, Tester  |
+| ✓ `CI/CD` Flow via Render             | ✅ `API`, **[Charts](https://django-volt-dashboard-pro.onrender.com/charts/)**                 | ✅ Weekly Sprints                   |
+| ✓ `Docker`                            | ✅ **[DataTables](https://django-volt-dashboard-pro.onrender.com/tables/)** (Filters, Export)  | ✅ Technical SPECS                  |
+| -                                     |✅ **Celery**                                                                                   | ✅ Documentation                    |
+| -                                     | ✅ **Media Files Manager**                                                                     | ✅ **30 days Delivery Warranty**    |
+| -                                     | ✅ **Extended User Profiles**                                                                  |  -                                   |
+| -                                     | ✅ `Private REPO Access`                                                                       |  -                                   |
+| -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                            |  -                                   |
+| -                                     | ✅ Deployment Assistance                                                                       |  -                                   |
+| ------------------------------------  | ------------------------------------                                                           | ------------------------------------|
+| ✓ [LIVE Demo](https://django-volt.onrender.com)  | 🚀 [LIVE Demo](https://django-volt-dashboard-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |    
 
 ![Django Bootstrap 5 Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-user-profile/master/media/django-edit-profile-intro.gif)
 
