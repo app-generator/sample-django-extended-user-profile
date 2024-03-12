@@ -4,7 +4,6 @@ Django Sample project that allows registered users to edit their profile outside
 
 - 👉 [Django User Profile](https://django-user-profile.appseed-srv1.com/) - `LIVE Demo`
 - 👉 [Django Bootstrap 5](https://appseed.us/product/volt-dashboard/django/) - the original starter
-- 🚀 Free [support](https://appseed.us/support/) via `Email` and `Discord` 
 
 <br />
 
@@ -24,7 +23,7 @@ Django Sample project that allows registered users to edit their profile outside
 | -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                            |  -                                   |
 | -                                     | ✅ Deployment Assistance                                                                       |  -                                   |
 | ------------------------------------  | ------------------------------------                                                           | ------------------------------------|
-| ✓ [LIVE Demo](https://django-volt.onrender.com)  | 🚀 [LIVE Demo](https://django-volt-dashboard-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |    
+| ✓ [LIVE Demo](https://django-user-profile.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-volt-dashboard-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |    
 
 ![Django Bootstrap 5 Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-user-profile/master/media/django-edit-profile-intro.gif)
 
