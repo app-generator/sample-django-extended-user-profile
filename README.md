@@ -7,29 +7,15 @@ Django Sample project that allows registered users to edit their profile outside
 
 <br />
 
-## Features
+---
 
-> `Have questions?` Contact **[Support](https://appseed.us/support/)** (Email & Discord) provided by **AppSeed**
+> For a **complete set of features** and long-term support, check out **[Dynamic Django](https://app-generator.dev/docs/developer-tools/dynamic-django/index.html)**, a powerful starter that incorporates the following:
 
-| Free Version                          | [PRO Version](https://appseed.us/product/volt-dashboard-pro/django/)    | [Custom Development](https://appseed.us/custom-development/) |  
-| --------------------------------------| --------------------------------------| --------------------------------------|
-| ✓ **Extended User Profiles**          | **Everything in Free**, plus:                                                                  | **Everything in PRO**, plus:         |
-| ✓ Best Practices                      | ✅ **Premium Bootstrap 5 Design**                                                              | ✅ **1mo Custom Development**       | 
-| ✓ Bootstrap 5 Design                  | ✅ `OAuth` Google, GitHub                                                                      | ✅ **Team**: PM, Developer, Tester  |
-| ✓ `CI/CD` Flow via Render             | ✅ `API`, **[Charts](https://django-volt-dashboard-pro.onrender.com/charts/)**                 | ✅ Weekly Sprints                   |
-| ✓ `Docker`                            | ✅ **[DataTables](https://django-volt-dashboard-pro.onrender.com/tables/)** (Filters, Export)  | ✅ Technical SPECS                  |
-| -                                     |✅ **Celery**                                                                                   | ✅ Documentation                    |
-| -                                     | ✅ **Media Files Manager**                                                                     | ✅ **30 days Delivery Warranty**    |
-| -                                     | ✅ **Extended User Profiles**                                                                  |  -                                   |
-| -                                     | ✅ `Private REPO Access`                                                                       |  -                                   |
-| -                                     | ✅ **PRO Support** - [Email & Discord](https://appseed.us/support/)                            |  -                                   |
-| -                                     | ✅ Deployment Assistance                                                                       |  -                                   |
-| ------------------------------------  | ------------------------------------                                                           | ------------------------------------|
-| ✓ [LIVE Demo](https://django-user-profile.appseed-srv1.com/)  | 🚀 [LIVE Demo](https://django-volt-dashboard-pro.onrender.com/) | 🛒 `Order`: **[$3,999](https://appseed.gumroad.com/l/rocket-package)** (GUMROAD) |    
-
-<br />
-
-![Django Bootstrap 5 Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-user-profile/master/media/django-edit-profile-intro.gif)
+- ✅ [Dynamic DataTables](https://app-generator.dev/docs/developer-tools/dynamic-django/datatables.html): using a single line of configuration, the data saved in any table is automatically managed
+- ✅ [Dynamic API](https://app-generator.dev/docs/developer-tools/dynamic-django/api.html): any model can become a secure API Endpoint using DRF
+- ✅ [Dynamic Charts](https://app-generator.dev/docs/developer-tools/dynamic-django/charts.html): extract relevant charts without coding all major types are supported
+- ✅ [CSV Loader](https://app-generator.dev/docs/developer-tools/dynamic-django/csv-loader.html): translate CSV files into Django Models and (optional) load the information
+- ✅ Powerful [CLI Tools](https://app-generator.dev/docs/developer-tools/dynamic-django/cli.html) for the GIT interface, configuration editing, updating the configuration and database (create models, migrate DB)
 
 <br />
 
